@@ -1,7 +1,9 @@
 **rsschool-cv** 
 -----
 **Natallia Siniak**  
-![](cv.png)
+![](cv.png)  
+
+
 -----
 **Contacts:**
 * **Phone:** +995-591058394
