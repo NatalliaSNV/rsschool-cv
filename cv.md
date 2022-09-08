@@ -23,8 +23,9 @@ I am 25. For the last two years I have been working as an physicist-algorithmist
 
 * HTML (basic), CSS (basic), JavaScript (basic)
 * C++, Python (basic)
-*Git/Github
+* Git/Github
 * Experience in writting Unit-tests
+
 -----
 
 **Code example:**  
